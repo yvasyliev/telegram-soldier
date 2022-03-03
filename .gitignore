@@ -1,0 +1,22 @@
+# Project exclude paths
+/target/
+*.log
+*.mp4
+*.txt
+.idea
+.cache
+animations
+documents
+music
+passport
+photos
+profile_photos
+secret
+secret_thumbnails
+stickers
+temp
+thumbnails
+video_notes
+videos
+voice
+wallpapers
